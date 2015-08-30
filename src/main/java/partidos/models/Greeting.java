@@ -1,4 +1,4 @@
-package partidos;
+package partidos.models;
 
 public class Greeting {
     private final long id;
